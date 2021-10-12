@@ -56,7 +56,7 @@ networkx==2.4
 numpy==1.15.0
 oauth==1.0.1
 olefile==0.45.1
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 path.py==12.0.1
 pbr==5.4.0
 pexpect==4.2.1
