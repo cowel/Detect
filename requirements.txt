@@ -62,7 +62,7 @@ pbr==5.4.0
 pexpect==4.2.1
 Pillow==5.1.0
 ply==3.11
-protobuf==3.0.0
+protobuf==3.18.3
 pycairo==1.16.2
 pycparser==2.18
 pycrypto==2.6.1
